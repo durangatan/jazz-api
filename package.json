@@ -1,0 +1,16 @@
+{
+  "name": "sls-rust-demo",
+  "version": "1.0.0",
+  "description": "Serverless Rust API Demo",
+  "main": "",
+  "engines": {
+    "node": "10"
+  },
+  "scripts": {},
+  "author": "durangatan",
+  "license": "MIT",
+  "dependencies": {
+    "serverless": "^1.26.0",
+    "serverless-rust": "latest"
+  }
+}
